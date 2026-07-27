@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../ML25"
+		},
+		{
+			"path": "../New folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New folder"
+	}
+}

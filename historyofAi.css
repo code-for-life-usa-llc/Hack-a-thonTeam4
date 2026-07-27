@@ -1,0 +1,36 @@
+h1{
+    background-color: black;
+    border: 2px solid white;
+    color:white;
+    font-size: 80px;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 0px;
+    }
+
+.right{
+    align-content: space-around;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
